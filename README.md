@@ -25,16 +25,22 @@ I'm currently studying for a **Bachelor's degree in Business Design at LAB Unive
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/sabnumpariyar-png/KIERTO-Lahti"><img src="assets/kierto-card.svg" width="100%" alt="KIERTO Lahti — local circular-living service design concept" /></a>
+      <a href="https://github.com/SabnamPariyar/KIERTO-Lahti"><img src="assets/kierto-card.svg" width="100%" alt="KIERTO Lahti — local circular-living service design concept" /></a>
       <p><strong>KIERTO — Good things deserve a second story.</strong></p>
       <p>A calm, mobile-first experience for discovering and passing on secondhand essentials in a local student community. An exploration of circular living, trust, and simple everyday interactions.</p>
-      <p><a href="https://github.com/sabnumpariyar-png/KIERTO-Lahti"><strong>View case study →</strong></a> · <a href="https://sabnumpariyar-png.github.io/KIERTO-Lahti/">Interactive prototype</a></p>
+      <p>
+        <a href="https://github.com/SabnamPariyar/KIERTO-Lahti"><img src="assets/kierto-case-button.svg" width="48%" alt="Explore KIERTO case study" /></a>
+        <a href="https://sabnampariyar.github.io/KIERTO-Lahti/"><img src="assets/kierto-demo-button.svg" width="48%" alt="Launch KIERTO interactive demo" /></a>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/sabnumpariyar-png/TRACE-Payment-Exception-Workspace"><img src="assets/trace-card.svg" width="100%" alt="TRACE — enterprise UX for payment exception decisions" /></a>
+      <a href="https://github.com/SabnamPariyar/TRACE-Payment-Exception-Workspace"><img src="assets/trace-card.svg" width="100%" alt="TRACE — enterprise UX for payment exception decisions" /></a>
       <p><strong>TRACE — Every payment has a decision.</strong></p>
       <p>An enterprise UX concept for investigating payment exceptions. I explored how evidence, clear system states, role-based actions, and a traceable decision history can support confident work.</p>
-      <p><a href="https://github.com/sabnumpariyar-png/TRACE-Payment-Exception-Workspace"><strong>View case study →</strong></a></p>
+      <p>
+        <a href="https://github.com/SabnamPariyar/TRACE-Payment-Exception-Workspace"><img src="assets/trace-case-button.svg" width="48%" alt="Explore TRACE case study" /></a>
+        <a href="https://sabnampariyar.github.io/TRACE-Payment-Exception-Workspace/"><img src="assets/trace-demo-button.svg" width="48%" alt="Launch TRACE interactive demo" /></a>
+      </p>
     </td>
   </tr>
 </table>

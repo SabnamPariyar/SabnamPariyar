@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60" role="img" aria-label="Launch TRACE interactive demo">
+ <rect x="1" y="1" width="238" height="58" rx="15" fill="#DCEDEA" stroke="#3A9A93" stroke-width="2"/>
+ <circle cx="27" cy="30" r="13" fill="#B9DDD7"/>
+ <path d="m24 24 9 6-9 6z" fill="#176C65"/>
+ <text x="51" y="35" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#1B6563" letter-spacing=".35">LAUNCH DEMO</text>
+</svg>

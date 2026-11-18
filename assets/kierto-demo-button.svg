@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60" role="img" aria-label="Launch KIERTO interactive demo">
+ <rect x="1" y="1" width="238" height="58" rx="15" fill="#F2F4ED" stroke="#6B9074" stroke-width="2"/>
+ <circle cx="27" cy="30" r="13" fill="#DCE6DB"/>
+ <path d="m24 24 9 6-9 6z" fill="#52795B"/>
+ <text x="51" y="35" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#375E41" letter-spacing=".35">LAUNCH DEMO</text>
+</svg>
