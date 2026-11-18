@@ -5,9 +5,8 @@
   <p>Designer at <strong>Ronix Tieto</strong> · Freelance designer · Finland</p>
   <p>Bachelor's in Business Design, <strong>LAB University of Applied Sciences</strong> — ongoing</p>
 
-  <a href="#selected-work"><strong>Explore my work</strong></a> &nbsp;·&nbsp;
-  <a href="#my-approach">My approach</a> &nbsp;·&nbsp;
-  <a href="#what-i-work-with">Design focus</a>
+  <a href="#selected-work"><img src="assets/explore-work-button.svg" width="220" alt="Explore my selected work" /></a>
+  <p><a href="#my-approach">My approach</a> &nbsp;·&nbsp; <a href="#what-i-work-with">Design focus</a></p>
 </div>
 
 ---
