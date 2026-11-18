@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 355" role="img" aria-label="Sabnam Pariyar — UX, service and business design">
+ <defs>
+  <linearGradient id="paper" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#F8F7F2"/><stop offset="1" stop-color="#ECEFE8"/></linearGradient>
+  <linearGradient id="green" x1="0" x2="1"><stop stop-color="#52765D"/><stop offset="1" stop-color="#94B4A0"/></linearGradient>
+  <linearGradient id="teal" x1="0" x2="1"><stop stop-color="#1B5357"/><stop offset="1" stop-color="#39A49D"/></linearGradient>
+  <filter id="shadow" x="-20%" y="-25%" width="150%" height="160%"><feDropShadow dx="0" dy="13" stdDeviation="12" flood-color="#25312E" flood-opacity=".12"/></filter>
+ </defs>
+ <rect width="1200" height="355" rx="18" fill="url(#paper)"/>
+ <path d="M0 312C181 285 299 323 446 285S710 294 871 259 1112 294 1200 267" fill="none" stroke="#D3DAD0" stroke-width="2"/>
+ <path d="M0 334C211 317 273 338 436 312S725 331 880 292 1100 309 1200 292" fill="none" stroke="#DFE3DA" stroke-width="1.5"/>
+ <circle cx="1087" cy="-34" r="180" fill="#DCE6DC" opacity=".76"/>
+ <circle cx="1145" cy="323" r="140" fill="#E1DED3" opacity=".52"/>
+ <g font-family="Arial, Helvetica, sans-serif" fill="#273630">
+  <text x="55" y="64" font-size="14" font-weight="700" letter-spacing="3">DESIGNER · FINLAND</text>
+  <path d="M55 85H442" stroke="#B5C4B8" stroke-width="1.5"/>
+  <text x="51" y="157" font-size="63" font-weight="700" letter-spacing="-3">Sabnam</text>
+  <text x="51" y="224" font-size="63" font-weight="700" letter-spacing="-3">Pariyar<tspan fill="#518369">.</tspan></text>
+  <text x="55" y="266" fill="#63716B" font-size="20">Thoughtful digital experiences.</text>
+  <text x="55" y="313" fill="#3C5950" font-size="14" letter-spacing="1.1">UX/UI   /   SERVICE DESIGN   /   BUSINESS DESIGN</text>
+ </g>
+ <g filter="url(#shadow)">
+  <g transform="translate(649 44) rotate(-9 120 128)">
+   <rect width="250" height="261" rx="18" fill="#FDFDF9"/>
+   <rect width="250" height="83" rx="18" fill="url(#green)"/>
+   <rect y="64" width="250" height="22" fill="url(#green)"/>
+   <text x="18" y="40" font-family="Arial" font-size="19" font-weight="700" fill="#fff">kierto.</text>
+   <text x="18" y="58" font-family="Arial" font-size="10" fill="#F0F5ED">A second story for good things</text>
+   <rect x="17" y="103" width="103" height="104" rx="9" fill="#D8DDCE"/>
+   <path d="M68 129l25 10-5 51H48l-4-51z" fill="#9B7653"/><path d="M57 121h21l16 17-50 0z" fill="#C5A17D"/>
+   <rect x="130" y="103" width="103" height="104" rx="9" fill="#E7E4DA"/>
+   <path d="M155 172v-27a24 24 0 0148 0v27" fill="none" stroke="#D1A36D" stroke-width="10"/>
+   <rect x="154" y="172" width="50" height="7" rx="3" fill="#9E805E"/>
+   <rect x="17" y="222" width="216" height="21" rx="9" fill="#E4EDE5"/>
+   <text x="30" y="236" font-size="10" font-family="Arial" fill="#476D52">Discover · Save · Give</text>
+  </g>
+  <g transform="translate(879 65) rotate(8 120 124)">
+   <rect width="263" height="249" rx="18" fill="#132C33"/>
+   <text x="18" y="37" font-family="Arial" font-size="23" font-weight="700" fill="#F1FAF8" letter-spacing="2">TRACE</text>
+   <text x="18" y="56" font-family="Arial" font-size="10" fill="#A5C5C0">PAYMENT EXCEPTION WORKSPACE</text>
+   <rect x="16" y="76" width="231" height="55" rx="8" fill="#25424A"/>
+   <text x="28" y="95" font-family="Arial" font-size="10" fill="#B5D0CC">Exception under review</text>
+   <text x="28" y="118" font-family="Arial" font-size="18" font-weight="700" fill="#FFFFFF">PAY-2048</text>
+   <circle cx="224" cy="102" r="5" fill="#5DD9BF"/>
+   <rect x="16" y="144" width="107" height="69" rx="8" fill="#25424A"/>
+   <rect x="137" y="144" width="110" height="69" rx="8" fill="#25424A"/>
+   <text x="27" y="164" font-family="Arial" font-size="10" fill="#9CC5BE">Evidence</text>
+   <path d="M28 187H99M28 196H86" stroke="#75BFB2" stroke-width="4" stroke-linecap="round"/>
+   <text x="147" y="164" font-family="Arial" font-size="10" fill="#9CC5BE">Decision</text>
+   <rect x="148" y="179" width="88" height="22" rx="7" fill="url(#teal)"/>
+   <text x="161" y="193" font-family="Arial" font-size="10" fill="#F8FFFD">Review case</text>
+  </g>
+ </g>
+</svg>

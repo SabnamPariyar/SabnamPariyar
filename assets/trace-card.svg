@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 570 280" role="img" aria-label="TRACE enterprise payment exception UX case study">
+ <rect width="570" height="280" rx="16" fill="#142D33"/>
+ <path d="M0 260c106-68 235 21 353-45s186-2 217-20" fill="none" stroke="#315A60" stroke-width="2"/>
+ <path d="M0 281c127-67 257 18 369-50s165-19 201-37" fill="none" stroke="#24454C" stroke-width="2"/>
+ <text x="29" y="52" font-family="Arial" font-size="27" font-weight="700" fill="#ECF5F3" letter-spacing="2">TRACE</text>
+ <text x="30" y="72" font-family="Arial" font-size="10" fill="#81B7AF" letter-spacing="1">PAYMENT EXCEPTION WORKSPACE</text>
+ <text x="29" y="132" font-family="Arial" font-size="27" font-weight="700" fill="#ECF5F3">Every payment</text>
+ <text x="29" y="164" font-family="Arial" font-size="27" font-weight="700" fill="#ECF5F3">has a decision.</text>
+ <rect x="28" y="211" width="150" height="28" rx="14" fill="#2E948D"/>
+ <text x="43" y="229" font-family="Arial" font-size="12" fill="#F9FEFD">ENTERPRISE UX CONCEPT</text>
+ <rect x="295" y="42" width="248" height="197" rx="12" fill="#213D44" stroke="#3B6065"/>
+ <rect x="309" y="58" width="220" height="50" rx="8" fill="#2D5058"/>
+ <text x="321" y="76" font-family="Arial" font-size="10" fill="#B4D4CE">Exception under review</text>
+ <text x="321" y="98" font-family="Arial" font-size="19" font-weight="700" fill="#FFFFFF">PAY-2048</text>
+ <circle cx="511" cy="82" r="5" fill="#6EDBC3"/>
+ <rect x="309" y="123" width="104" height="98" rx="8" fill="#2D5058"/>
+ <rect x="426" y="123" width="103" height="98" rx="8" fill="#2D5058"/>
+ <text x="320" y="143" font-family="Arial" font-size="11" fill="#C4E6DF">Evidence</text>
+ <path d="M320 167h76M320 180h58M320 193h68" stroke="#70B4A9" stroke-width="4" stroke-linecap="round"/>
+ <text x="436" y="143" font-family="Arial" font-size="11" fill="#C4E6DF">Decision</text>
+ <rect x="437" y="163" width="81" height="28" rx="6" fill="#269E95"/>
+ <text x="447" y="181" font-family="Arial" font-size="11" fill="#FFFFFF">Review</text>
+</svg>

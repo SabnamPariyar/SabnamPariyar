@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 570 280" role="img" aria-label="KIERTO circular living UI UX case study">
+ <rect width="570" height="280" rx="16" fill="#E8ECE5"/>
+ <path d="M0 231c154-40 263 28 380-21 68-28 131-16 190-3v73H0z" fill="#D7E1D4"/>
+ <rect x="23" y="21" width="300" height="238" rx="14" fill="#FBFAF5"/>
+ <rect x="23" y="21" width="300" height="67" rx="14" fill="#557960"/>
+ <path d="M23 65h300v23H23z" fill="#557960"/>
+ <text x="42" y="59" fill="#FFFFFF" font-family="Arial" font-size="27" font-weight="700">kierto.</text>
+ <rect x="42" y="104" width="124" height="132" rx="8" fill="#F1EEE4"/>
+ <path d="M73 194v-45h61v45M72 150c0-29 63-29 63 0" stroke="#AE926D" stroke-width="6" fill="none"/>
+ <path d="M79 196h55M91 196v13M122 196v13" stroke="#93724F" stroke-width="6"/>
+ <rect x="177" y="104" width="129" height="132" rx="8" fill="#E2E8DF"/>
+ <path d="M203 192c7-20 37-30 50-16 18 17 36-14 38-29" fill="none" stroke="#64886A" stroke-width="7" stroke-linecap="round"/>
+ <path d="M217 200v-40M264 192v-60" stroke="#56775B" stroke-width="5"/>
+ <ellipse cx="210" cy="158" rx="18" ry="8" transform="rotate(-43 210 158)" fill="#739978"/>
+ <ellipse cx="271" cy="143" rx="18" ry="9" transform="rotate(40 271 143)" fill="#84A588"/>
+ <text x="356" y="110" font-family="Arial" font-size="13" letter-spacing="2" fill="#617266">CIRCULAR LIVING</text>
+ <text x="354" y="155" font-family="Arial" font-size="35" font-weight="700" fill="#2D4435">KIERTO</text>
+ <text x="356" y="182" font-family="Arial" font-size="17" fill="#506854">A second story</text>
+ <text x="356" y="204" font-family="Arial" font-size="17" fill="#506854">for good things.</text>
+ <rect x="355" y="225" width="133" height="27" rx="13" fill="#567C60"/>
+ <text x="375" y="242" font-family="Arial" font-size="12" fill="#FFFFFF">MOBILE UX CONCEPT</text>
+</svg>
